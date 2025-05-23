@@ -28,7 +28,7 @@ const ShareButton: React.FC = () => {
   return (
     <button 
       onClick={handleShare} 
-      className="fixed top-4 right-4 p-2 rounded-full bg-black/30 text-white hover:bg-black/50 transition-all"
+      className="share-button fixed top-4 right-4 p-2 rounded-full bg-black/30 text-white hover:bg-black/50 transition-all"
       aria-label="Compartilhar"
     >
       <Share2 size={20} />

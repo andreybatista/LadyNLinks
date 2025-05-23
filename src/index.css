@@ -79,6 +79,7 @@
   @apply bg-black bg-opacity-90 rounded-2xl p-6 flex flex-col items-center gap-4;
   background: rgba(72, 42, 31, .1);
   backdrop-filter: blur(15px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
 }
 
 .action-button {
@@ -86,6 +87,9 @@
   background: rgba(72, 42, 31, .15);
   font-family: 'Montserrat', sans-serif;
   font-weight: 500;
+}
+.share-button {
+  background: rgba(72, 42, 31, .15);
 }
 
 .footer-text {
