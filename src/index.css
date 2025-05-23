@@ -55,9 +55,9 @@
 
   /* #482A1F */
   body {
-    @apply bg-ladyN-green text-foreground font-['Inter'];
+    @apply text-foreground font-['Inter'];
     background-image: linear-gradient(135deg, #FFEEE9 0%, #F8ADA7 100%);
-    min-height: 100vh;
+    min-height: 100dvh;
   }
 
   h1,
