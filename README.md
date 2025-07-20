@@ -18,7 +18,6 @@ Esta é a landing page de links da **Lady N Biscoiteria**, desenvolvida para fac
 ## 📱 Tecnologias Utilizadas
 
 - [React.js](https://reactjs.org/)
-- [Next.js](https://nextjs.org/) (caso esteja usando)
-- [Tailwind CSS](https://tailwindcss.com/) para estilização
-- [React Icons](https://react-icons.github.io/react-icons/) para ícones
-- [Clipboard API](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard_API) para copiar chave PIX
+- [Tailwind CSS](https://tailwindcss.com/)
+- [React Icons](https://react-icons.github.io/react-icons/)
+- [Clipboard API](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard_API)

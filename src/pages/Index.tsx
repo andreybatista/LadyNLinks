@@ -41,7 +41,7 @@ const Index = () => {
             <CopyButton
               icon={<PixIcon />}
               label="Chave PIX CNPJ"
-              textToCopy="12.345.678/0001-90"
+              textToCopy="59.722.601/0001-50"
             />
 
             <ActionButton
