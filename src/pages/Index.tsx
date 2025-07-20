@@ -35,7 +35,7 @@ const Index = () => {
             <ActionButton
               icon={<FileText size={24} />}
               label="Menu Lady N"
-              href="/menu.pdf"
+              href="https://lady-n.vercel.app/"
             />
             
             <CopyButton
