@@ -69,7 +69,7 @@ const Index = () => {
             <ActionButton
               icon={<CatalogoIcon />}
               label="Catálogo de Natal 2025"
-              href="https://simplebooklet.com/cardpiodenatal"
+              href="https://simplebooklet.com/catalogodenatal"
             />
           </div>
         </div>
