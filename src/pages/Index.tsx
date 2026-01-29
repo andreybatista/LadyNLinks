@@ -66,11 +66,6 @@ const Index = () => {
               href="https://wa.me/556292473392?text=Olá,%20vim%20pelo%20site%20e%20gostaria%20de%20mais%20informações"
             />
 
-            <ActionButton
-              icon={<CatalogoIcon />}
-              label="Catálogo de Natal 2025"
-              href="https://simplebooklet.com/catalogodenatal"
-            />
           </div>
         </div>
       </div>
